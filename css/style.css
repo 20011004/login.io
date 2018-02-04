@@ -27,14 +27,13 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
-/*--header--*/
 
 .header-w3l{
     margin: 75px;
 }
 .header-w3l h1{
 	font-size:3em;
-    color:white;
+    color:black;
     letter-spacing: 6px;
     font-weight: 300;
     font-family: 'Open Sans', sans-serif;
